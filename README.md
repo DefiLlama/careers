@@ -1,4 +1,8 @@
-# DefiLlama Careers
+<p align="center">
+  <img width="300" src="./future-of-france.jpg"><br>
+  <b>DefiLlama Careers</b><br>
+  Come build the future of France!
+</p>
 
 ## Open positions
 ### Backend dev
