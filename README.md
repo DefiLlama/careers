@@ -63,6 +63,10 @@ We believe that where you're from, credentials, gender and anything else shouldn
 
 There's already been multiple instances where we rejected applications from FAANG engineers in favor of applications from complete anons that contributed much more to defillama.
 
+## Employee benefits
+- Discord nitro
+- Co-invest in any angel deals that 0xngmi gets
+
 ## Impact
 Personally, I hate that in some of my previous jobs nothing would have changed if I wasn't there, as someone else would have just replaced me and implemented what I did in my stead. So for me impact is very important and I try to set things up for it to happen:
 - Team is extremely small, atm there's only 8 full time contributors
