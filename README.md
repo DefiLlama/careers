@@ -12,18 +12,6 @@ Stack:
 - Typescript on AWS lambdas
 - Cloudflare workers
 - Knowledge on web2 scalability
-### Full stack dev: NFT
-Continue work on our nft dashboard.
-
-Stack:
-- JS/TS on backend
-- React/nextjs on frontend
-### Full stack dev: New metrics
-Develop new metrics, such as exchange volume or daily unique users.
-
-Stack:
-- JS/TS on backend
-- React/nextjs on frontend
 
 ## TLDR
 - Anon friendly
