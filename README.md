@@ -54,6 +54,7 @@ There's already been multiple instances where we rejected applications from FAAN
 ## Employee benefits
 - Discord nitro
 - Co-invest in any angel deals that 0xngmi gets
+- Custom llama pfp made just for you
 
 ## Impact
 Personally, I hate that in some of my previous jobs nothing would have changed if I wasn't there, as someone else would have just replaced me and implemented what I did in my stead. So for me impact is very important and I try to set things up for it to happen:
