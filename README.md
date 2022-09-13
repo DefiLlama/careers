@@ -77,7 +77,7 @@ Salaries at defillama are in the 50-80k/yr range in USD. On top of that we add a
 We regularly increase salaries based on performance or if more funding is made available.
 
 ## Applying
-Just send a Pull Request to one of our repositories. If you are looking for a task, the easiest is to go to https://github.com/DefiLlama/DefiLlama-Adapters/projects/2, find a protocol on the Requested column and build an adapter for it so we can integrate it. Afterwards, DM @0xngmi on twitter on discord saying that you are interested in working at defillama.
+Just send a Pull Request to one of our repositories. If you are looking for a task, the easiest is to go to https://github.com/DefiLlama/DefiLlama-Adapters/projects/2, find a protocol on the Requested column and build an adapter for it so we can integrate it. Afterwards, DM @0xngmi on twitter or discord saying that you are interested in working at defillama.
 
 If you continue making contributions to defillama after that first PR, that heavily increases your chances of getting hired. The reason is that by doing that you prove that you are someone that can take the initiative and work independently, which we value a lot.
 
