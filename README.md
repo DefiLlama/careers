@@ -5,7 +5,7 @@
 </p>
 
 ## Open positions
-### Backend dev
+### Backend dev (filled)
 Build infrastructure services to get token prices and build our RPC aggregator.
 
 Stack:
