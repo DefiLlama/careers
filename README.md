@@ -5,13 +5,7 @@
 </p>
 
 ## Open positions
-### Backend dev (filled)
-Build infrastructure services to get token prices and build our RPC aggregator.
-
-Stack:
-- Typescript on AWS lambdas
-- Cloudflare workers
-- Knowledge on web2 scalability
+None at the moment
 
 ## TLDR
 - Anon friendly
