@@ -5,7 +5,13 @@
 </p>
 
 ## Open positions
-None at the moment
+- Frontend developer
+- General developer
+- Open application (Make your own position!)
+
+To apply:
+1. Submit a PR to one of the defillama repos, anywhere is fine, you could add tracking for a new protocol, improve something on our frontend or tackle something on our backend
+2. Send an email to support@defillama.com with a link to your PR, a short explanation of past work and why you want to join
 
 ## TLDR
 - Anon friendly
