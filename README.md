@@ -9,11 +9,10 @@
 - Open application (Make your own position!)
 
 To apply:
-1. Submit a PR to one of the defillama repos, anywhere is fine, you could add tracking for a new protocol, improve something on our frontend or tackle something on our backend
+1. Submit a PR to one of the defillama repos, anywhere is fine, you could add tracking for a new protocol or tackle something on our backend
 2. Send an email to support@defillama.com with a link to your PR, a short explanation of past work and why you want to join
 
 ## TLDR
-- Anon friendly
 - Max autonomy and control over your work
 - High impact
 - No meetings, all comms are async
@@ -43,16 +42,8 @@ However it doesn't work for the following people:
 - You want a structured work environment. Defillama is just not this, we have no sprints, tickets, managers or anybody telling you what to do or when to work.
 - You have low intrinsic motivation: Most people at defillama work independently, so if you don't have a strong intrinsic motivation it's very likely you'll get demotivated and stop working.
 
-## Anon-friendly
-Right now every single llama working on defillama is anonymous. I don't know their names, where they live nor their gender.
-
-We believe that where you're from, credentials, gender and anything else shouldn't matter, the only thing that matters is your ability to do the job well. For this reason we welcome contributors that are completely anon, we just require an eth address to send salary to and that's it, no need to doxx to us or to anyone.
-
-There's already been multiple instances where we rejected applications from FAANG engineers in favor of applications from complete anons that contributed much more to defillama.
-
 ## Employee benefits
 - Discord nitro
-- Co-invest in any angel deals that 0xngmi gets
 - Custom llama pfp made just for you
 
 ## Impact
@@ -69,14 +60,12 @@ Multiple people have mentioned that they've experienced high growth in knowledge
 -->
 
 ## Compensation
-DefiLlama has no revenue nor investors, currently costs are just paid through donations and self-funding.
+Salaries at defillama are in the 60-100k/yr range in USD. On top of that we add a vested equity grant.
 
-Salaries at defillama are in the 50-80k/yr range in USD. On top of that we add a vested equity grant equal to one year of pay at a low valuation (as of now <50% the one of our closest competitor).
-
-We regularly increase salaries based on performance or if more funding is made available.
+We regularly increase salaries based on performance.
 
 ## Applying
-Just send a Pull Request to one of our repositories. If you are looking for a task, the easiest is to go to https://github.com/DefiLlama/DefiLlama-Adapters/projects/2, find a protocol on the Requested column and build an adapter for it so we can integrate it. Afterwards, DM @0xngmi on twitter on discord saying that you are interested in working at defillama.
+Just send a Pull Request to one of our repositories. If you are looking for a task, the easiest is to go to https://github.com/DefiLlama/DefiLlama-Adapters, find a protocol on the Issues list and build an adapter for it so we can integrate it. Afterwards, DM @0xngmi on twitter on discord saying that you are interested in working at defillama.
 
 If you continue making contributions to defillama after that first PR, that heavily increases your chances of getting hired. The reason is that by doing that you prove that you are someone that can take the initiative and work independently, which we value a lot.
 
