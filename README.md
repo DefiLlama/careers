@@ -5,8 +5,7 @@
 </p>
 
 ## Open positions
-- Frontend developer
-- General developer
+- Data developer
 - Open application (Make your own position!)
 
 To apply:
