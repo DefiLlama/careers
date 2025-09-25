@@ -5,7 +5,7 @@
 </p>
 
 ## Open positions
-- Data developer
+- Data developer  (multiple positions)
 - Frontend developer
 - Sales development representative
 - Open application (Make your own position!)
