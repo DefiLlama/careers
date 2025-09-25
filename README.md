@@ -6,6 +6,7 @@
 
 ## Open positions
 - Data developer
+- Frontend developer
 - Sales development representative
 - Open application (Make your own position!)
 
