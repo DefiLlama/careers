@@ -38,6 +38,10 @@ I’ve been closely following the growth of DefiLlama as the most trusted aggreg
 * X (Twitter): [@okolipraiz](https://x.com/okolipraiz)
 * Email: [okolipraiz@gmail.com](mailto:okolipraiz@gmail.com)
 
+
+### **Resume**
+https://drive.google.com/file/d/1tT39FdOZaxLYF9S70Kb8RVQAyrguSdmr/view?usp=drive_link
+
 ---
 
 I’d love to contribute to DefiLlama’s mission by building clean, performant, and scalable frontend experiences for your growing user base.
