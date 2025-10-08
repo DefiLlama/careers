@@ -7,7 +7,6 @@
 ## Open positions
 - Data developer  (multiple positions)
 - Frontend developer
-- Sales development representative
 - Open application (Make your own position!)
 
 To apply:
