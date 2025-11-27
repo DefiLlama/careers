@@ -61,7 +61,7 @@ Multiple people have mentioned that they've experienced high growth in knowledge
 -->
 
 ## Compensation
-Salaries at defillama are in the 60-100k/yr range in USD. On top of that we add a vested equity grant.
+Salaries at defillama are paid in stablecoins or wire transfers, choice is up to receiver. On top of that we add a vested equity grant.
 
 We regularly increase salaries based on performance.
 
