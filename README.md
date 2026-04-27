@@ -5,6 +5,7 @@
 </p>
 
 ## Open positions
+- Developer
 - Open application (Make your own position!)
 
 To apply:
