@@ -5,7 +5,7 @@
 </p>
 
 ## Open positions
-- Developer
+- Developer (multiple positions open)
 - Open application (Make your own position!)
 
 To apply:
@@ -43,7 +43,6 @@ However it doesn't work for the following people:
 - You have low intrinsic motivation: Most people at defillama work independently, so if you don't have a strong intrinsic motivation it's very likely you'll get demotivated and stop working.
 
 ## Employee benefits
-- Discord nitro
 - Custom llama pfp made just for you
 
 ## Impact
