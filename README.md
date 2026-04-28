@@ -38,7 +38,7 @@ This creates an environment where I instantly extend a lot of trust to everyone 
 - Ready to take on any role that's needed (we don't have classic separations like dev, product owner... everyone does everything. I personally find this very enjoyable, there's nothing like talking to users directly and seeing how they use what you built, then implementing features they request in a few hours).
 
 However it doesn't work for the following people:
-- Interns and part-timers: I don't micro-manage nor i am constantly demanding things to get done, so what happens is that people constantly prioritize their other jobs over defillama (because they have deadlines while at defillama work is open-ended). For this reason we just don't hire anyone other than full-time employees.
+- Interns and part-timers: I don't micro-manage nor I am constantly demanding things to get done, so what happens is that people constantly prioritize their other jobs over defillama (because they have deadlines while at defillama work is open-ended). For this reason we just don't hire anyone other than full-time employees.
 - You want a structured work environment. Defillama is just not this, we have no sprints, tickets, managers or anybody telling you what to do or when to work.
 - You have low intrinsic motivation: Most people at defillama work independently, so if you don't have a strong intrinsic motivation it's very likely you'll get demotivated and stop working.
 
