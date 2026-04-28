@@ -71,7 +71,7 @@ If you continue making contributions to defillama after that first PR, that heav
 ## Why defillama is important
 > This is just some thoughts by me (0xngmi) on why I believe what we do is important and what drives me. I'm aware that this sounds like the classic mumbo-jumbo of startups, and at the end of the day we are building a website, not saving wildlife, so feel free to just completely ignore this section.
 
-Throughout my life, I've been cut off from centralized services multiple times, and been denied banking services. When that happened I felt incredibly powerless, you just receive a message telling you something is blocked but don't know why that happened, what propmpted it and there's nobody you can complain to or any way to fix that. You just have no power to change anything, and that sucks.
+Throughout my life, I've been cut off from centralized services multiple times, and been denied banking services. When that happened I felt incredibly powerless, you just receive a message telling you something is blocked but don't know why that happened, what prompted it and there's nobody you can complain to or any way to fix that. You just have no power to change anything, and that sucks.
 
 Because of that, I believe that the self-sovereignty and ultimate control over your own money that Bitcoin and crypto offers is extremely important, and not just that, but defi is too since it provides access to financial services to everyone while making it impossible to rug you, unlike banks.
 
