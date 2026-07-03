@@ -11,7 +11,7 @@ To apply, send an email to hiring@defillama.com with:
 - A range for your expected compensation
 - A written article on the topic of revenue defensibility for stablecoins
 
-Deadline to apply is **Sunday 5th of July by the end of the day**.
+Deadline to apply is **Sunday 5th of July by the end of the day** (UTC+02:00).
 
 For the article, the premise we want to explore is that there seems to be massive differences between stablecoins in how much of a moat they have and how defensible their revenues are.
 
