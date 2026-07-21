@@ -6,12 +6,9 @@
 
 ## Open positions
 - Developer (multiple positions open)
-- [Research analyst](./analyst.md)
 - Open application (Make your own position!)
 
-To apply for analyst job post, read [this](./analyst.md)
-
-To apply for devs:
+To apply for dev role:
 1. Submit a PR to one of the defillama repos, anywhere is fine, you could add tracking for a new protocol or tackle something on our backend
 2. Send an email to hiring@defillama.com with a link to your PR, a short explanation of past work and why you want to join. For sales roles, instead of submitting a PR, in your email identify a company that would be a good prospect for DefiLlama and draft a cold outreach message.
 
